@@ -1,6 +1,6 @@
 /*		PROJ5.CPP
-	Ben Zech	Assignment 5
-	Mr. Myers	Due Monday, November 23rd 11:59pm
+	Ben Zech	11/23/2020
+	All work was written by Benjamin Zech. *Do not steal or plagerize*
 */
 
 #include <iostream>
