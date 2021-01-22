@@ -3,6 +3,6 @@ Implementation of a hash table ADT and other supporting user interfaces, along w
 
 The hashtable functions can be found in **hashtable.h** and the password hashtable adaptation functions can be found in **passserver.h**
 
-**proj5.cpp** contains a basic UI for hashing and storing usernames and passwords for a simple password server program
+**proj5.cpp** contains a basic UI for hashing and storing usernames and passwords for a simple password server program by utilizing the hashtable class I wrote
 
 All work was written by Benjamin Zech. *Do not steal or plagerize*
